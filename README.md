@@ -34,3 +34,7 @@ npm run dev  # 🚀 Start the development server
 
 ## 💬 Need Help?  
 📩 For any queries, feedback, or collaboration, feel free to reach out to me at **📧 pranavgupta022@gmail.com**.  
+
+
+![image](https://github.com/user-attachments/assets/0fdd4084-308c-43f5-9bd3-0aa91fefb0d7)
+
