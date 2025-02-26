@@ -35,6 +35,19 @@ npm run dev  # 🚀 Start the development server
 ## 💬 Need Help?  
 📩 For any queries, feedback, or collaboration, feel free to reach out to me at **📧 pranavgupta022@gmail.com**.  
 
-
+## Home Page
 ![image](https://github.com/user-attachments/assets/0fdd4084-308c-43f5-9bd3-0aa91fefb0d7)
+
+## All Paste
+![image](https://github.com/user-attachments/assets/1ddd9b5e-ac9f-47c9-9208-c25d0284b50d)
+
+## Search Paste
+![image](https://github.com/user-attachments/assets/d90665fd-c4de-48eb-8a37-aae5ae97cb5d)
+
+## Update Paste
+![image](https://github.com/user-attachments/assets/8ea19fbe-8786-49f4-b781-62dbbef256bc)
+
+## Delete Paste
+![image](https://github.com/user-attachments/assets/1ef1fd90-38e7-43ab-992a-929351af2be9)
+
 
