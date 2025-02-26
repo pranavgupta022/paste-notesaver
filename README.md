@@ -39,13 +39,13 @@ npm run dev  # 🚀 Start the development server
 ![image](https://github.com/user-attachments/assets/0fdd4084-308c-43f5-9bd3-0aa91fefb0d7)
 
 ## All Paste
-![image](https://github.com/user-attachments/assets/1ddd9b5e-ac9f-47c9-9208-c25d0284b50d)
+![image](https://github.com/user-attachments/assets/e6fdda0a-fae7-446d-b25d-b4c4db50ca7f)
 
 ## Search Paste
-![image](https://github.com/user-attachments/assets/d90665fd-c4de-48eb-8a37-aae5ae97cb5d)
+![image](https://github.com/user-attachments/assets/0bcff863-0bd6-41ec-899f-e0d01e2bd860)
 
 ## Update Paste
-![image](https://github.com/user-attachments/assets/8ea19fbe-8786-49f4-b781-62dbbef256bc)
+![image](https://github.com/user-attachments/assets/1e843d23-d9d4-4c57-9f21-ee6ca1432704)
 
 ## Delete Paste
 ![777](https://github.com/user-attachments/assets/1ffba0b6-e546-44f0-abd0-afaccf005d90)
