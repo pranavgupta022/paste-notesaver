@@ -48,6 +48,7 @@ npm run dev  # 🚀 Start the development server
 ![image](https://github.com/user-attachments/assets/8ea19fbe-8786-49f4-b781-62dbbef256bc)
 
 ## Delete Paste
-![image](https://github.com/user-attachments/assets/1ef1fd90-38e7-43ab-992a-929351af2be9)
+![777](https://github.com/user-attachments/assets/1ffba0b6-e546-44f0-abd0-afaccf005d90)
+
 
 
